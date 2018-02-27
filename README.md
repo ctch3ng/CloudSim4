@@ -23,7 +23,7 @@ XQuartz: Preferences -> Security -> (Check) Allow connections from network clien
 In the terminal:
 ```
 sudo chmod u+x CloudSim_build.sh
-sudo chmod u+x CloudSim_X11.sh 
+sudo chmod u+x CloudSim_XQuartz.sh 
 
 #Create a docker image cloud_sim
 ./CloudSim_build.sh 
