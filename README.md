@@ -9,8 +9,12 @@ In the terminal:
 ```
 sudo chmod u+x CloudSim_build.sh
 sudo chmod u+x CloudSim_X11.sh 
-./CloudSim_build.sh #Create a docker image cloud_sim
-./CloudSim_X11.sh #Create a container Cloud_Sim_4 using the docker image cloud_sim
+
+#Create a docker image cloud_sim
+./CloudSim_build.sh 
+
+#Create a container Cloud_Sim_4 using the docker image cloud_sim
+./CloudSim_X11.sh 
 ```
 
 To terminate, type ```exit```
