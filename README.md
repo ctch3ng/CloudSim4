@@ -17,4 +17,10 @@ sudo chmod u+x CloudSim_X11.sh
 ./CloudSim_X11.sh 
 ```
 
+In the container, to run example 1,
+```
+cd jars
+java -classpath cloudsim-4.0.jar:cloudsim-examples-4.0.jar org.cloudbus.cloudsim.examples.CloudSimExample1
+```
+
 To terminate, type ```exit```
