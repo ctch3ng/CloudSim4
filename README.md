@@ -1,7 +1,7 @@
 # CloudSim4
 Dockerfile (Ubuntu, gedit, wget, git, python3, Java8, CloudSim4)
 
-The aim of this repository is to prepare a docker image for running [http://www.cloudbus.org/cloudsim/](CloudSim).
+The aim of this repository is to prepare a docker image for running [CloudSim](http://www.cloudbus.org/cloudsim/).
 
 The following procedures are for Ubuntu 16.04 with Docker 17.12.0-ce installed
 
