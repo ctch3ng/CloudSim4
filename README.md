@@ -18,7 +18,7 @@ sudo chmod u+x CloudSim_X11.sh
 ```
 **The following procedures are for MacOS 10.13.3 with Docker 17.12.0-ce installed**
 
-XQuartz: Preferences -> Security -> (Check) Allow connections from network clients
+[XQuartz](https://www.xquartz.org/): Preferences -> Security -> (Check) Allow connections from network clients
 
 In the terminal:
 ```
