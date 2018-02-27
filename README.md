@@ -3,7 +3,7 @@ Dockerfile (Ubuntu, gedit, wget, git, python3, Java8, CloudSim4)
 
 The aim of this repository is to prepare a docker image for running [CloudSim](http://www.cloudbus.org/cloudsim/).
 
-####The following procedures are for Ubuntu 16.04 with Docker 17.12.0-ce installed
+*The following procedures are for Ubuntu 16.04 with Docker 17.12.0-ce installed*
 
 In the terminal:
 ```
@@ -16,7 +16,7 @@ sudo chmod u+x CloudSim_X11.sh
 #Create a container Cloud_Sim_4 using the docker image cloud_sim
 ./CloudSim_X11.sh 
 ```
-####The following procedures are for MacOS 10.13.3 with Docker 17.12.0-ce installed
+*The following procedures are for MacOS 10.13.3 with Docker 17.12.0-ce installed*
 
 XQuartz: Preferences -> Security -> (Check) Allow connections from network clients
 
