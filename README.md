@@ -16,7 +16,7 @@ sudo chmod u+x CloudSim_X11.sh
 #Create a container Cloud_Sim_4 using the docker image cloud_sim
 ./CloudSim_X11.sh 
 ```
-**The following procedures are for MacOS 10.13.3 with Docker 17.12.0-ce installed**
+**The following procedures are for macOS 10.13.3 with Docker 17.12.0-ce installed**
 
 [XQuartz](https://www.xquartz.org/): Preferences -> Security -> (Check) Allow connections from network clients
 
